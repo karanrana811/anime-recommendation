@@ -1,2 +1,2 @@
 # anime-recommendation
-Created with CodeSandbox
+Used reactJS to create anime-recommendation app with CodeSandbox. 
