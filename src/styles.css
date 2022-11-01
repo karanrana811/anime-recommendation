@@ -62,6 +62,10 @@ hr {
   letter-spacing: 1px;
 }
 
+.genreList:focus {
+  font-weight: bold;
+}
+
 .animeList {
   list-style: none;
   width: 40%;
